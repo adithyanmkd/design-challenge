@@ -1,0 +1,24 @@
+{
+  "name": "design-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adithyanmkd/design-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adithyanmkd/design-challenge/issues"
+  },
+  "homepage": "https://github.com/adithyanmkd/design-challenge#readme",
+  "description": "",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.12",
+    "prettier-plugin-tailwindcss": "^0.6.11",
+    "tailwindcss": "^4.0.12"
+  }
+}
